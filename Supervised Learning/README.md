@@ -24,4 +24,4 @@ This project analyzes South Korea's birth rate trends using historical data from
 4. **Visualization:**
    - Used Matplotlib and Seaborn to visualize historical trends and model predictions.
 
-## 📂 Project Structure
+
